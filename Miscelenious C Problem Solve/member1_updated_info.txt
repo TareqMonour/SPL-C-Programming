@@ -1,0 +1,4 @@
+
+Member1's info->
+Total Meal: 6421835
+Total Cost: 200
